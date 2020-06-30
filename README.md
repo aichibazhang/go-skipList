@@ -11,7 +11,7 @@ package main
 
 import (
 	"fmt"
-	"go_skipList"
+	"github.com/pyihe/go-skipList"
 )
 
 func main() {
