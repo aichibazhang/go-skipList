@@ -1,3 +1,3 @@
-module github.com/pyihe/go_skipList
+module github.com/pyihe/go-skipList
 
 go 1.14
